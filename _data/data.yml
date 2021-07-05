@@ -207,43 +207,43 @@ skills:
         
     grades:
         - name: Computational science
-          grade: 80%
+          level: 80%
 
         - name: Research Laboratory
-          grade: 80%
+          level: 80%
 
         - name: Modern Physics
-          grade: 90%
+          level: 90%
 
         - name: Classical Mechanics
-          grade: 90%
+          level: 90%
 
         - name: Statistics
-          grade: 80%
+          level: 80%
 
         - name: Physics of Sustainable Energy
-          grade: 80%
+          level: 80%
 
         - name: Quantum Mechanics 1
-          grade: 85%
+          level: 85%
 
         - name: Quantum Mechanics 2
-          grade: 90%
+          level: 90%
 
         - name: Electronics for Quantum Computation
-          grade: 85%
+          level: 85%
 
         - name: Quantum Engineering
-          grade: 80%
+          level: 80%
 
         - name: Quantum Optics and Quantum Informatics
-          grade: 80%
+          level: 80%
 
         - name: Nanoscience
-          grade: 90%
+          level: 90%
 
         - name: Astrophysical Dynamics
-          grade: 90%
+          level: 90%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
