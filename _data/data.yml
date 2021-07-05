@@ -207,43 +207,43 @@ skills:
         
     grades:
         - name: Computational science
-            grade: 8
+          grade: 8
 
         - name: Research Laboratory
-            grade: 8
+          grade: 8
 
         - name: Modern Physics
-            grade: 9
+          grade: 9
 
         - name: Classical Mechanics
-            grade: 9
-        
+          grade: 9
+
         - name: Statistics
-            grade: 8
-        
+          grade: 8
+
         - name: Physics of Sustainable Energy
-            grade: 8
-            
+          grade: 8
+
         - name: Quantum Mechanics 1
-            grade: 8.5
-        
+          grade: 8.5
+
         - name: Quantum Mechanics 2
-            grade: 9.0
-        
+          grade: 9.0
+
         - name: Electronics for Quantum Computation
-            grade: 8.5
-        
+          grade: 8.5
+
         - name: Quantum Engineering
-            grade: 8
-        
+          grade: 8
+
         - name:Quantum Optics and Quantum Informatics
-            grade: 8
-        
+          grade: 8
+
         - name: Nanoscience
-            grade: 9
-            
+          grade: 9
+
         - name: Astrophysical Dynamics
-            grade: 9
+          grade: 9
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
