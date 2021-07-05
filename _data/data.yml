@@ -74,6 +74,13 @@ education:
       details: |
         Took Master’s level courses in quantum physics, astrophysics and nanoscience.  
         Average grade: 4,5/5
+        
+    - degree: VWO Gymnasium
+      university: Grotius College Delft
+      time: 2008 - 2015
+      details: |
+        Final project: Quantum computers for dummies (Grade 8.0)
+        
 experiences:
     - role: Researcher (Internship)
       time: 2021 - Present
