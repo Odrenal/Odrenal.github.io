@@ -4,14 +4,14 @@
   <div class="education-container container-block">
 
     <h2 class="container-block-title">
-      {{page.lang}}
-      {% if page.lang == "en" %}
+      {% if include.lang == "en" %}
       Education
       {% endif %}
-      {% if page.lang == "jp" %}
+      {% if include.lang == "jp" %}
       学歴
       {% endif %}
     </h2>
+    {{include.lang}}
 
     {% for graduation in education %}
     <div class="item">
